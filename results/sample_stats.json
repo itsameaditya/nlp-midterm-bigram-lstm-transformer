@@ -1,0 +1,23 @@
+{
+  "bigram": {
+    "chars": 10000,
+    "words": 1801,
+    "real_word_pct": 24.153248195446974,
+    "speaker_lines": 62,
+    "real_speaker_pct": 0.0
+  },
+  "lstm": {
+    "chars": 10000,
+    "words": 1911,
+    "real_word_pct": 93.19727891156462,
+    "speaker_lines": 82,
+    "real_speaker_pct": 85.36585365853658
+  },
+  "transformer": {
+    "chars": 10000,
+    "words": 1899,
+    "real_word_pct": 91.4691943127962,
+    "speaker_lines": 58,
+    "real_speaker_pct": 84.48275862068965
+  }
+}
